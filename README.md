@@ -43,4 +43,6 @@ These components work together to provide a scalable, resilient platform for dep
 
 Here's a simplified diagram illustrating the architecture of Kubernetes with master and worker nodes:
 
-         <img width="526" alt="Kubernetes Architecture" src="https://github.com/Pavanreyan/Kubernetes-Learn/assets/55541931/06a693c5-09f6-4242-b8b3-cea492f29870">
+<p align="center">
+  <img src="https://github.com/Pavanreyan/Kubernetes-Learn/assets/55541931/06a693c5-09f6-4242-b8b3-cea492f29870" width="350" title="Kubernetes Architecture">
+</p>
